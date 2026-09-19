@@ -6,7 +6,7 @@ This project helps job seekers analyze their resumes against a specific job desc
 
 ## 🚀 Live Demo
 
-🔗 https://your-app-name.streamlit.app
+🔗 https://resumeanalyze-97dunzxpcwhnzndqd2rxia.streamlit.app/
 
 > Replace the URL above with your actual Streamlit deployment URL after deployment.
 
